@@ -9,4 +9,4 @@ In **FlipAura**, you'll find:
 - **CSS**: Styling the cards and creating smooth flipping animations.
 
 ## Live Demo
-You can view the live demo of the **FlipNest** project [here]().
+You can view the live demo of the **FlipNest** project [here](https://nishtha9477.github.io/FlipAura/).
